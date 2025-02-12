@@ -1,0 +1,33 @@
+css7
+.jumbotron {
+
+    background-image: url(../img/gambar\ 3.jpg);
+    background-size: cover;
+    background-position: 0 -100px;
+    color: white;
+    background-attachment: fixed;
+}
+
+.jumbotron h1,
+.jumbotron p {
+
+    text-shadow: 1px 1px 5px rgba (0, 0, 0, .5);
+
+}
+section {
+    min-height: 450px;
+}
+
+.col-lg-4{
+    margin-bottom: 10px;
+}
+
+.row-lg-4 {
+width: 300px;
+height: 150px;
+
+}
+footer {
+     color: white;
+     background-color: rgb(46, 46, 46, 46);
+}
